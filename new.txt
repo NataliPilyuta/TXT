@@ -1,0 +1,6 @@
+n
+Name: Nataliya
+Surname: Pilyuta
+Age: 38
+Dog: 1
+Salary: 1000
